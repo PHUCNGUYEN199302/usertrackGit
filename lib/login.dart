@@ -88,7 +88,7 @@ class _LoginState extends State<Login> {
                 _logoText(),
                 _inputField(
                     Icon(Icons.person_outline,
-                        size: 30, color: Color(0xffA6B0BD)),
+                        size: 40, color: Color(0xffA6B0BD)),
                     "Username",
                     false,
                     userNameController),
